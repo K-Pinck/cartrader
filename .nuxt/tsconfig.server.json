@@ -12,45 +12,45 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "/Users/keithpinckard/Work/cartrader/.nuxt/types/nitro-imports"
+        "/Users/keith/Work/cartrader/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "/Users/keithpinckard/Work/cartrader/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "/Users/keith/Work/cartrader/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "~/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "@": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "@/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "~~": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "~~/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "@@": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "@@/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "assets": [
-        "/Users/keithpinckard/Work/cartrader/assets"
+        "/Users/keith/Work/cartrader/assets"
       ],
       "public": [
-        "/Users/keithpinckard/Work/cartrader/public"
+        "/Users/keith/Work/cartrader/public"
       ]
     }
   },
   "include": [
-    "/Users/keithpinckard/Work/cartrader/.nuxt/types/nitro-nuxt.d.ts",
+    "/Users/keith/Work/cartrader/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"
