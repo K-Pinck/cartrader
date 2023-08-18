@@ -8,18 +8,7 @@
       >
         <div class="text-wrap text-center w-1/2">
           <h1 class="text-8xl font-serif mb-10 text-white">Find your drive</h1>
-          <!-- Home search bar -->
-          <div
-            class="font-serif w-full text-2xl rounded-full bg-white flex justify-between overflow-hidden drop-shadow-2xl mx-auto z-40"
-          >
-            <input
-              type="text"
-              class="py-3 px-5 w-full text-2xl rounded-full focus:outline-none"
-              placeholder="Search by city..."
-            />
-            <button class="bg-sky-500 px-10 text-white">Search</button>
-          </div>
-          <!-- /Home search bar -->
+         <CarSearchBar/>
         </div>
       </div>
     </section>
