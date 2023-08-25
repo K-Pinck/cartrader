@@ -35,7 +35,7 @@
           </div>
         </div>
         <!-- Car attr -->
-      <div class="mr-10 mt-5 border border-b pb-5">
+      <div class="mr-10 mt-5 border-b pb-5">
         <div class="flex items-center text-lg mt-2">
           <p class="rounded text-lime-800 mr-3">
             <img class="w-4 h-4" src="https://e7.pngegg.com/pngimages/920/543/png-clipart-black-and-white-finger-font-black-checkmark-white-text-thumbnail.png" alt="">
