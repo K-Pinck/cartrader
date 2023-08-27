@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "_hash": "GQzkvCYGiU",
   "project": {
     "rootDir": "/Users/keithpinckard/Work/cartrader"
-=======
-  "_hash": "Tx3OpMbmap",
-  "project": {
-    "rootDir": "/Users/keith/Work/cartrader"
->>>>>>> f781b479cd798c0111c69f3c78915a899ec42bad
   },
   "versions": {
     "nuxt": "3.6.5"
