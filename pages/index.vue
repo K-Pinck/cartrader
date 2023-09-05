@@ -1,8 +1,6 @@
 <template>
-    <div>
-        <NavBar/>
-        <CarHero/>
-    </div>
+  <div>
+    <NavBar/>
+    <CarHero/>
+  </div>
 </template>
-
-
