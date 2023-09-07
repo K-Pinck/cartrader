@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "/Users/keith/Work/cartrader/node_modules/nuxt/dist/app/entry.js": {
+  "/Users/keithpinckard/Work/cartrader/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "/Users/keith/Work/cartrader/node_modules/nuxt/dist/app/entry.js"
+    "file": "/Users/keithpinckard/Work/cartrader/node_modules/nuxt/dist/app/entry.js"
   }
 }
