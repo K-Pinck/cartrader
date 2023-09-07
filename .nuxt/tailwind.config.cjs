@@ -6537,15 +6537,15 @@ module.exports = {
   "content": {
     "relative": false,
     "files": [
-      "/Users/keithpinckard/Work/cartrader/components/**/*.{vue,js,ts}",
-      "/Users/keithpinckard/Work/cartrader/layouts/**/*.vue",
-      "/Users/keithpinckard/Work/cartrader/pages/**/*.vue",
-      "/Users/keithpinckard/Work/cartrader/composables/**/*.{js,ts}",
-      "/Users/keithpinckard/Work/cartrader/plugins/**/*.{js,ts}",
-      "/Users/keithpinckard/Work/cartrader/App.{js,ts,vue}",
-      "/Users/keithpinckard/Work/cartrader/app.{js,ts,vue}",
-      "/Users/keithpinckard/Work/cartrader/Error.{js,ts,vue}",
-      "/Users/keithpinckard/Work/cartrader/error.{js,ts,vue}"
+      "/Users/keith/Work/cartrader/components/**/*.{vue,js,ts}",
+      "/Users/keith/Work/cartrader/layouts/**/*.vue",
+      "/Users/keith/Work/cartrader/pages/**/*.vue",
+      "/Users/keith/Work/cartrader/composables/**/*.{js,ts}",
+      "/Users/keith/Work/cartrader/plugins/**/*.{js,ts}",
+      "/Users/keith/Work/cartrader/App.{js,ts,vue}",
+      "/Users/keith/Work/cartrader/app.{js,ts,vue}",
+      "/Users/keith/Work/cartrader/Error.{js,ts,vue}",
+      "/Users/keith/Work/cartrader/error.{js,ts,vue}"
     ],
     "extract": {},
     "transform": {}
