@@ -117,6 +117,7 @@ declare global {
   const useSlots: typeof import('vue')['useSlots']
   const useState: typeof import('../../node_modules/nuxt/dist/app')['useState']
   const useTransitionState: typeof import('vue')['useTransitionState']
+  const useUtilities: typeof import('../../composables/useUtiilities')['useUtilities']
   const watch: typeof import('vue')['watch']
   const watchEffect: typeof import('vue')['watchEffect']
   const watchPostEffect: typeof import('vue')['watchPostEffect']
@@ -253,6 +254,7 @@ declare module 'vue' {
     readonly useSlots: UnwrapRef<typeof import('vue')['useSlots']>
     readonly useState: UnwrapRef<typeof import('../../node_modules/nuxt/dist/app')['useState']>
     readonly useTransitionState: UnwrapRef<typeof import('vue')['useTransitionState']>
+    readonly useUtilities: UnwrapRef<typeof import('../../composables/useUtiilities')['useUtilities']>
     readonly watch: UnwrapRef<typeof import('vue')['watch']>
     readonly watchEffect: UnwrapRef<typeof import('vue')['watchEffect']>
     readonly watchPostEffect: UnwrapRef<typeof import('vue')['watchPostEffect']>
@@ -383,6 +385,7 @@ declare module '@vue/runtime-core' {
     readonly useSlots: UnwrapRef<typeof import('vue')['useSlots']>
     readonly useState: UnwrapRef<typeof import('../../node_modules/nuxt/dist/app')['useState']>
     readonly useTransitionState: UnwrapRef<typeof import('vue')['useTransitionState']>
+    readonly useUtilities: UnwrapRef<typeof import('../../composables/useUtiilities')['useUtilities']>
     readonly watch: UnwrapRef<typeof import('vue')['watch']>
     readonly watchEffect: UnwrapRef<typeof import('vue')['watchEffect']>
     readonly watchPostEffect: UnwrapRef<typeof import('vue')['watchPostEffect']>
