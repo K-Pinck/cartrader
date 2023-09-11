@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "/Users/keithpinckard/Work/cartrader",
+    "baseUrl": "/Users/keith/Work/cartrader",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,58 +18,58 @@
     ],
     "paths": {
       "~": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "~/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "@": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "@/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "~~": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "~~/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "@@": [
-        "/Users/keithpinckard/Work/cartrader"
+        "/Users/keith/Work/cartrader"
       ],
       "@@/*": [
-        "/Users/keithpinckard/Work/cartrader/*"
+        "/Users/keith/Work/cartrader/*"
       ],
       "assets": [
-        "/Users/keithpinckard/Work/cartrader/assets"
+        "/Users/keith/Work/cartrader/assets"
       ],
       "public": [
-        "/Users/keithpinckard/Work/cartrader/public"
+        "/Users/keith/Work/cartrader/public"
       ],
       "#app": [
-        "/Users/keithpinckard/Work/cartrader/node_modules/nuxt/dist/app"
+        "/Users/keith/Work/cartrader/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "/Users/keithpinckard/Work/cartrader/node_modules/nuxt/dist/app/*"
+        "/Users/keith/Work/cartrader/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "/Users/keithpinckard/Work/cartrader/node_modules/nuxt/dist/app/compat/vue-demi"
+        "/Users/keith/Work/cartrader/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#vue-router": [
-        "/Users/keithpinckard/Work/cartrader/.nuxt/vue-router"
+        "/Users/keith/Work/cartrader/.nuxt/vue-router"
       ],
       "#imports": [
-        "/Users/keithpinckard/Work/cartrader/.nuxt/imports"
+        "/Users/keith/Work/cartrader/.nuxt/imports"
       ],
       "#build": [
-        "/Users/keithpinckard/Work/cartrader/.nuxt"
+        "/Users/keith/Work/cartrader/.nuxt"
       ],
       "#build/*": [
-        "/Users/keithpinckard/Work/cartrader/.nuxt/*"
+        "/Users/keith/Work/cartrader/.nuxt/*"
       ],
       "#components": [
-        "/Users/keithpinckard/Work/cartrader/.nuxt/components"
+        "/Users/keith/Work/cartrader/.nuxt/components"
       ]
     }
   },
@@ -77,14 +77,14 @@
     "./nuxt.d.ts",
     "../**/*",
     "../**/*",
-    "/Users/keithpinckard/Work/cartrader",
-    "/Users/keithpinckard/Work/cartrader/*",
-    "/Users/keithpinckard/Work/cartrader",
-    "/Users/keithpinckard/Work/cartrader/*",
-    "/Users/keithpinckard/Work/cartrader",
-    "/Users/keithpinckard/Work/cartrader/*",
-    "/Users/keithpinckard/Work/cartrader",
-    "/Users/keithpinckard/Work/cartrader/*"
+    "/Users/keith/Work/cartrader",
+    "/Users/keith/Work/cartrader/*",
+    "/Users/keith/Work/cartrader",
+    "/Users/keith/Work/cartrader/*",
+    "/Users/keith/Work/cartrader",
+    "/Users/keith/Work/cartrader/*",
+    "/Users/keith/Work/cartrader",
+    "/Users/keith/Work/cartrader/*"
   ],
   "exclude": [
     "../dist",
