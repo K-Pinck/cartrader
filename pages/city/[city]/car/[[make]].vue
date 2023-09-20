@@ -1,5 +1,5 @@
 <template>
   <div>
-    <CarCard />
+    <LazyCarCards />
   </div>
 </template>
